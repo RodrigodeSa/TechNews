@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="title">Title</string>
+    <string name="write_your_text">Write your text...</string>
+    <string name="save">Save</string>
+</resources>
